@@ -16,4 +16,4 @@ Conforme o código foi sendo executado, a velocidade de execução foi diminuind
 
 ## Gráfico
 
-O grafico se encontra na raiz do projeto, e exibe os tempos de execução de cada número ao longo do tempo de execução do código.
+O grafico se encontra na raiz do projeto, e exibe os tempos de execução de cada número ao longo do tempo de execução do código, em ns.
